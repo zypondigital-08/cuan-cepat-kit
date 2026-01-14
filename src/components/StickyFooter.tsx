@@ -13,7 +13,7 @@ const StickyFooter = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const waNumber = "6281234567890"; // Ganti dengan nomor WA asli
+  const waNumber = "6289520644539";
   const waMessage = encodeURIComponent(
     "Halo kak! Saya mau order Digital Starter Kit yang promo Rp 20.000 🔥"
   );
